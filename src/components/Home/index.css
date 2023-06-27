@@ -1,0 +1,10 @@
+.home-container {
+  padding: 30px;
+  padding-left: 60px;
+  padding-right: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #f5f7fa;
+  height: 90vh;
+}
